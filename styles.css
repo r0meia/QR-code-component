@@ -29,7 +29,6 @@ html {
     position: relative;
     left: 590px;
     bottom: 40px;
-
 }
 p {
     font-size: 15px;
@@ -43,4 +42,8 @@ p {
 }
 .attribution {
     margin-top: 280px;;
+}
+
+h1 {
+    color: hsl(218, 44%, 22%)
 }
